@@ -103,7 +103,7 @@ public class UngkaTerminal {
                     break;
                 default:
                     System.out.println("Invalid input, please try again.");
-                    continue; // Prompt user again for valid input
+                    continue; // Ask the user again for valid input
             }
 
             transportation.displayTime(); // Display time
